@@ -11,6 +11,8 @@ public class Playermovementscript : MonoBehaviour
 
     public float gravity = -9.81f;
 
+
+
     public Transform groundCheck;
     public float groundDistance = 0.4f;
     public LayerMask groundMask;
